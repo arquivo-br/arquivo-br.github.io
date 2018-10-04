@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Primeira postagem!
-image: /img/hello_world.jpeg
+title: Primeira postagem.
+subtitle: Boa sorte amigo(a)!
 ---
 
 Espero que esse site / blog me ajude (e ajude você) a encontrar o caminho da verdade.
-
-Abraços, e boa sorte!
