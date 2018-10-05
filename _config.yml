@@ -24,8 +24,8 @@ description: Arquivo "pessoal" de arquivos.
 # List of links in the navigation bar
 navbar-links:
   Sobre: "aboutme"
-  # Resources:
-  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Pessoas Públicas:
+    - Jair Bolsonaro: "jair-bolsonaro"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   #   - GitHub Pages: "https://pages.github.com/"
   # Author's home: "http://deanattali.com"
